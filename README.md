@@ -8,6 +8,6 @@ Persian ISIRI 2901 with Latin num row for MacOS
 5. If you want to install the keyboard for the **current user only** then click on _Install for current user_ or click on _Install for all users_ to install the keyboard system-wide.
 6. Go to System Preferences > Keyboard > Input Sources
 7. Click on the `+` button
-8. Find Persian on the list of languages and left
+8. Find Persian on the list of languages on the left
 9. Pick `Persian-ISIRI 2901 with Latin num row` from the right
 10. Click `Add`
