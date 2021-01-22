@@ -1,6 +1,8 @@
 # Persian-ISIRI-2901-with-Latin-num-row
 Persian ISIRI 2901 with Latin num row for MacOS
 
+[![Screenshot of installation process](https://github.com/fsalehpour/Persian-ISIRI-2901-with-Latin-num-row/raw/master/screenshot.png)](https://www.youtube.com/watch?v=D9tfnVwsbgA)
+
 1. [Download the dmg](https://github.com/fsalehpour/Persian-ISIRI-2901-with-Latin-num-row/raw/master/Persian-ISIRI%202901%20with%20Latin%20num%20row.dmg).
 2. Mount the dmg file.
 3. Run the **Keyboard Installer.app**.
