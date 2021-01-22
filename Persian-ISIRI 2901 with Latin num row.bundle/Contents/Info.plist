@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.persian-isiri2901withlatinnumrow</string>
+	<key>CFBundleName</key>
+	<string>Persian-ISIRI 2901 with Latin num row</string>
+	<key>CFBundleVersion</key>
+	<string></string>
+	<key>KLInfo_Persian-ISIRI 2901 with Latin num row</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.persian-isiri2901withlatinnumrow.persian-isiri2901withlatinnumrow</string>
+		<key>TISIntendedLanguage</key>
+		<string>fa-IR</string>
+	</dict>
+</dict>
+</plist>
